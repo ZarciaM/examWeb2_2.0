@@ -1,0 +1,37 @@
+/* Navbar Colors */
+.custom-navbar {
+    background-color: #4A90E2; /* Bleu ardoise */
+}
+
+.custom-brand {
+    color: #F4E1D2; /* Beige sable */
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.custom-link {
+    color: #F4E1D2; /* Beige sable */
+    font-size: 1.1rem;
+}
+
+.custom-link:hover {
+    color: #A3B18A; /* Vert sauge */
+    text-decoration: underline;
+}
+
+/* Adjust button colors */
+.custom-button {
+    background-color: #A3B18A; /* Vert sauge */
+    color: white;
+    border-color: #A3B18A;
+}
+
+.custom-button:hover {
+    background-color: #D9534F; /* Rouge brique */
+    border-color: #D9534F;
+}
+
+.custom-button-danger {
+    background-color: #D9534F; /* Rouge brique */
+    color: white;
+}

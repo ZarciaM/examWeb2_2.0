@@ -1,0 +1,29 @@
+.elegant-theme {
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+}
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+    color: #2c3e50;
+    text-align: center;
+}
+
+.elegant-table th, .elegant-table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.elegant-button {
+    border-radius: 8px;
+    padding: 5px 15px;
+    font-size: 14px;
+}
+
+.elegant-form input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px;
+    margin-bottom: 10px
+}
